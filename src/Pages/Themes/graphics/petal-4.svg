@@ -1,0 +1,12 @@
+<?xml version="1.0"?><svg width="468.00000000000006" height="468.00000000000006" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="gridpattern">
+   <image height="100" width="100" y="0" x="0"/>
+  </pattern>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path fill="#ffaaaa" stroke="#ffaaaa" stroke-width="2.928799" d="m327,238c-56,118 32,142 35,150c3,8 17,-34 19,-51c2,-17 8,74 8,74c0,0 78,-39 37,-96c-41,-57 -99,-77 -99,-77z" id="svg_8"/>
+ </g>
+</svg>
